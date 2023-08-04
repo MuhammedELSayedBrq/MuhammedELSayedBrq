@@ -39,10 +39,6 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Mohamed Khalil" /> </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-</p>
-<img src="https://imgur.com/rilHVxA.png"/>
-</p>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
