@@ -6,12 +6,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communications and Computers student who is passionate about AI, Unity, Embedded Systems & more.
+I'm a communications and Computers Engineering student who is focusing on AI, ML, DL, NLP/Speech recognition.
 
 - 🎓 &nbsp; I’m currently a senior student at Benha University.
-- 🎓 &nbsp; I’m currently also a student at ALX Africa software engineering.
+- 🎓 &nbsp; I’m currently a Trainee at DEPI Egypt in Microsoft ML Enginneer track.
+- 🎓 &nbsp; I’m currently also a student at ALX Africa software engineering/delayed.
 
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Sofware, Unity AR, AI. 
+- 🌱 &nbsp; Learning more about AI, ML, DL, NLP/Speech recognition. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammed-el-sayed-8a781b1a2)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
