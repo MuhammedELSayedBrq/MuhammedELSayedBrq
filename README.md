@@ -26,18 +26,17 @@ I'm <span style="color:#8338EC;"><strong>Mohamed Khalil</strong></span>, a fresh
 
 ### <span style="color:#3A86FF;"><strong>Tools:</strong></span>
 
-- Git
-- Linux
-- GitHub
-- Jupyter Notebook
-- PowerBI
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### <span style="color:#3A86FF;"><strong>Editors & IDEs:</strong></span>
 
-- VS Code
-- Unity
-- Visual Studio
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ---
 
 ## <span style="color:#3A86FF;"><strong>✨ Welcomed Visitors</strong></span>
