@@ -6,7 +6,7 @@ I'm <span style="color:#8338EC;"><strong>Mohamed Khalil</strong></span>, a fresh
 
 ### <span style="color:#3A86FF;"><strong>Currently:</strong></span>
 
-- <span style="color:#FFBE0B;"><strong>Trainee</strong></span> at DEPI Egypt in the Microsoft Machine Learning Engineer Track (w/ Azure Cloud)
+- <span style="color:#FFBE0B;"><strong>Trainee</span> at DEPI Egypt in the Microsoft Machine Learning Engineer Track (w/ Azure Cloud)</strong>
 - <span style="color:#FFBE0B;"><strong>Coursera Student</strong></span> in Machine Learning and Deep Learning specializations
 - <span style="color:#FFBE0B;"><strong>Linux Enthusiast</strong></span>, leveled up my skills at ALX Software Engineering for 3 months
 
@@ -17,7 +17,7 @@ I'm <span style="color:#8338EC;"><strong>Mohamed Khalil</strong></span>, a fresh
 ## <span style="color:#3A86FF;"><strong>My Tech Stack</strong></span>
 
 ### <span style="color:#3A86FF;"><strong>Languages:</strong></span>
-- 💻 &nbsp;
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
