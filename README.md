@@ -1,47 +1,44 @@
+##   AI Enthusiast | ML Engineer (in training)
 
-<h2> Hello Friend! </h2>
+<img width="200" align="right" alt="Brain" src="https://i.imgur.com/yX4YGic.png" /> 
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+**Yo!**   I'm Mohamed Khalil, a fresh grad in Communications & Computer Engineering with a passion for Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Speech Recognition. ️ 
 
+**Currently:**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+*  Trainee at DEPI Egypt in the Microsoft Machine Learning Engineer Track ( w Azure Cloud ). 
+*  Coursera student, Machine Learning and Deep Learning specializations. 
+*   Leveled up my Linux skills at ALX softawre engineering for 3 months. 
 
-I'm a communications and Computers Engineering student who is focusing on AI, ML, DL, NLP/Speech recognition.
+**Hit me up on:** [Linkedin](https://www.linkedin.com/in/muhammed-el-sayed-8a781b1a2)
 
-- 🎓 &nbsp; I’m currently a senior student at Benha University.
-- 🎓 &nbsp; I’m currently a Trainee at DEPI Egypt in Microsoft ML Enginneer track.
-- 🎓 &nbsp; I’m currently also a student at ALX Africa software engineering/delayed.
+##   My Tech Stack:
 
-- 🌱 &nbsp; Learning more about AI, ML, DL, NLP/Speech recognition. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammed-el-sayed-8a781b1a2)
+**Languages:**
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+  *    Python (3.x && 2.x)
+  *    C
+  *    C++
+  *  #  C# 
+  *    HTML5
+  *    Css
 
-- 💻 &nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Tools:**
 
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  *    Git
+  *    Linux
+  *    GitHub
+  *    Jupyter Notebook
+  *    PowerPI
 
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+**Editors & IDEs:**
 
-  
-<br/>
+  *    VS Code 
+  *    Unity
+  *    Visual Studio
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
+## ✨ Welcomed Visitors
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammedELSayedBrq&color=green" alt="Mohamed Khalil" /> </p>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=MuhammedELSayedBrq&color=hotpink" alt="Mohamed Khalil" />
+</p>
