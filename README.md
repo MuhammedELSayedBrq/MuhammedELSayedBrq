@@ -1,6 +1,6 @@
 ##   AI Enthusiast | ML Engineer (in training)
 
-<img width="200" align="right" alt="Brain" src="https://i.imgur.com/yX4YGic.png" /> 
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 **Yo!**   I'm Mohamed Khalil, a fresh grad in Communications & Computer Engineering with a passion for Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Speech Recognition. ️ 
 
@@ -39,6 +39,4 @@
 
 ## ✨ Welcomed Visitors
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MuhammedELSayedBrq&color=hotpink" alt="Mohamed Khalil" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammedELSayedBrq&color=green" alt="Mohamed Khalil" /> </p>
